@@ -91,26 +91,29 @@ Women Safety Emergency Response Web Application developed during a Hackathon.
 ML project that predicts academic performance and provides study recommendations.
 
 ---
-
 # 🏆 Achievements
 
 🏅 AWS Academy Graduate – Cloud Foundations
 
-🏅 Open Source Contributor (GirlScript Summer of Code)
+🏅 AWS Student Builder Group Leader – Saveetha Engineering College
+
+🏅 GirlScript Summer of Code (GSSoC) Open Source Contributor
+
+🏅 Successfully Completed the Unstop 30 Days POTD Challenge
 
 🏅 Oasis Infobyte Java Development Internship
 
-🏅 Active Problem Solver
+🏅 Participated in Multiple National Hackathons (HackFusion, CODE KNIGHT, SIMATS)
 
-🏅 Hackathon Participant
+🏅 Built Real-World Projects in Java, AI/ML, and Full-Stack Development
 
----
+🏅 Active Data Structures & Algorithms Problem Solver
 
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhandapanikeerthana&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhandapanikeerthana&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -118,7 +121,7 @@ ML project that predicts academic performance and provides study recommendations
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhandapanikeerthana&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -126,33 +129,44 @@ ML project that predicts academic performance and provides study recommendations
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhandapanikeerthana&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
-
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhandapanikeerthana&theme=tokyo-night"/>
 </p>
 
 ---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Dhandapanikeerthana&color=blue&style=for-the-badge)
+
+⭐ Thanks for visiting my profile!
+
+</p>
 
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/keerthana-d-07839531a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://myportfolio-peach-pi.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Keerthanadhandapani2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dhandapanikeerthana" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -161,24 +175,30 @@ ML project that predicts academic performance and provides study recommendations
 
 # 💻 Coding Profiles
 
-- LeetCode
-- HackerRank
-- CodeChef
-- GeeksforGeeks
+<p align="left">
 
-(Add your profile links.)
+<a href="https://leetcode.com/u/D_KEERTHANA/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://unstop.com/u/keertd19083" target="_blank">
+<img src="https://img.shields.io/badge/Unstop-6C63FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+
 
 ---
-
 # 💡 Quote
 
-> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+> "Turning ideas into code and challenges into opportunities."
 
 ---
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Dhandapanikeerthana&color=blue&style=for-the-badge)
 
 ⭐ Thanks for visiting my profile!
 
