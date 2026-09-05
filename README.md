@@ -75,27 +75,24 @@
 
 # 📂 Featured Projects
 
-### 🚆 Online Reservation System
+### 🚆 [Online Reservation System](https://github.com/Dhandapanikeerthana/OIBSIP)
 Java Swing application with Login, Ticket Booking, PNR Generation, and Cancellation.
 
-### 🏠 Chennai Real Estate Price Prediction
+### 🏠 [Chennai Real Estate Price Prediction](YOUR_REPO_LINK)
 Machine Learning project using synthetic datasets for property price prediction.
 
-### 📰 Fake News Detection
-AI-powered web application to classify news articles using Machine Learning.
+### 📰 [News App](https://github.com/Dhandapanikeerthana/NEWSAPP)
+News application project for browsing and displaying news articles.
 
-### 🚨 AEGIS
-Women Safety Emergency Response Web Application developed during a Hackathon.
+### 🏠 [Chennai Real Estate Data Generator](https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
+Synthetic real estate dataset generator for creating property listings and supporting Machine Learning projects.
 
-### 📊 Student Performance Predictor
-ML project that predicts academic performance and provides study recommendations.
-
+### 🤖 [GenAI Chat LLM with Gradio](https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
+Generative AI chatbot project using an LLM and Gradio for an interactive web interface.
 ---
 # 🏆 Achievements
 
 🏅 AWS Academy Graduate – Cloud Foundations
-
-🏅 AWS Student Builder Group Leader – Saveetha Engineering College
 
 🏅 GirlScript Summer of Code (GSSoC) Open Source Contributor
 
