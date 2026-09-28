@@ -73,42 +73,45 @@
 
 ---
 
-# 📂 Featured Projects
+## PROJECTS
 
 
-🤖** GEN AI**
+## 🤖GEN AI
 
-### 🤖 [GenAI Chat LLM with Gradio](https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
-Generative AI chatbot project using an LLM and Gradio for an interactive web interface.
+🤖GenAI Chat LLM with Gradio
+(https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
 
-### 🖼️ Prototype Development for Image Generation Using Stable Diffusion(https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
-Generative AI prototype for text-to-image generation using the Stable Diffusion model and an interactive Gradio web interface.
-Developed as part of my Generative AI coursework, with modifications, debugging, testing, and experimentation carried out by me.
-
-**🧠 Named Entity Recognition (NER) Prototype(https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)**
-NLP project using a fine-tuned BART model to identify and extract named entities from text through an interactive Gradio web interface.
-
-****🔗Design and Implementation of LangChain Expression Language (LCEL) Expressions**(https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)**
-Explored LCEL for building and composing modular LLM workflows using LangChain. Implemented expressions to understand how prompts, models, and output processing can be connected into structured GenAI pipelines.
+🖼️Prototype Development for Image Generation Using Stable Diffusion
+(https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
 
 
-☕ **JAVA / SOFTWARE DEVELOPMENT**
+🧠Named Entity Recognition (NER) Prototype
+(https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)
 
-### 🚆 [Online Reservation System](https://github.com/Dhandapanikeerthana/OIBSIP)
-Java Swing application with Login, Ticket Booking, PNR Generation, and Cancellation.
-
-### 📰 [News App](https://github.com/Dhandapanikeerthana/NEWSAPP)
-News application project for browsing and displaying news articles.
+🔗Design and Implementation of LangChain Expression Language (LCEL) Expressions
+(https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)
 
 
+ ## ☕JAVA / SOFTWARE DEVELOPMENT**
 
-🧠 **AI / MACHINE LEARNING**
+ 🚆Online Reservation System
+ (https://github.com/Dhandapanikeerthana/OIBSIP)
 
-### 🏠 [Chennai Real Estate Data Generator](https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
-Machine Learning project that generates a synthetic Chennai real estate dataset and uses it to build a property price prediction model.
+ 📰News App
+ (https://github.com/Dhandapanikeerthana/NEWSAPP)
 
-****🧠 Face Detection Project**(https://github.com/Dhandapanikeerthana/FaceDetectionProjects)**
-Real-time face detection application using Python and OpenCV with a webcam and Haar Cascade Classifier.
+
+
+
+## 🧠AI / MACHINE LEARNING
+
+🏠Chennai Real Estate Data Generator
+(https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
+
+
+Face Detection Project
+(https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
+
 
 
 
@@ -129,45 +132,28 @@ Real-time face detection application using Python and OpenCV with a webcam and H
 
 🏅 Active Data Structures & Algorithms Problem Solver
 
-# 📈 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhandapanikeerthana&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhandapanikeerthana&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
 
-# 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhandapanikeerthana&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+# 💻 Coding Profiles
 
-# 🏆 GitHub Trophies
+<p align="left">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhandapanikeerthana&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
+<a href="(https://leetcode.com/u/D_KEERTHANA/)" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
----
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhandapanikeerthana&theme=tokyo-night"/>
-</p>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=Dhandapanikeerthana&color=blue&style=for-the-badge)
-
-⭐ Thanks for visiting my profile!
+<a href="https://unstop.com/u/keertd19083" target="_blank">
+<img src="https://img.shields.io/badge/Unstop-6C63FF?style=for-the-badge"/>
+</a>
 
 </p>
+
+
+
+
 
 # 🌐 Connect With Me
 
@@ -191,30 +177,15 @@ Real-time face detection application using Python and OpenCV with a webcam and H
 
 </p>
 
----
-
-# 💻 Coding Profiles
-
-<p align="left">
-
-<a href="https://leetcode.com/u/D_KEERTHANA/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://unstop.com/u/keertd19083" target="_blank">
-<img src="https://img.shields.io/badge/Unstop-6C63FF?style=for-the-badge"/>
-</a>
-
-</p>
 
 
 
----
-# 💡 Quote
 
-> "Turning ideas into code and challenges into opportunities."
 
----
+# 💡Quote
+"Turning ideas into code and challenges into opportunities."
+
+
 
 <p align="center">
 
