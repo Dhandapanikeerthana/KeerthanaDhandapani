@@ -1,4 +1,4 @@
-# Hi👋,I'm Keerthana Dhandapani
+# Hi👋,I'm Keerthana
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;DSA+Enthusiast;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
