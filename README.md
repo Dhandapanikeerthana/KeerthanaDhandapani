@@ -75,20 +75,43 @@
 
 # 📂 Featured Projects
 
+
+🤖** GEN AI**
+
+### 🤖 [GenAI Chat LLM with Gradio](https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
+Generative AI chatbot project using an LLM and Gradio for an interactive web interface.
+
+### 🖼️ Prototype Development for Image Generation Using Stable Diffusion(https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
+Generative AI prototype for text-to-image generation using the Stable Diffusion model and an interactive Gradio web interface.
+Developed as part of my Generative AI coursework, with modifications, debugging, testing, and experimentation carried out by me.
+
+**🧠 Named Entity Recognition (NER) Prototype(https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)**
+NLP project using a fine-tuned BART model to identify and extract named entities from text through an interactive Gradio web interface.
+
+****🔗Design and Implementation of LangChain Expression Language (LCEL) Expressions**(https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)**
+Explored LCEL for building and composing modular LLM workflows using LangChain. Implemented expressions to understand how prompts, models, and output processing can be connected into structured GenAI pipelines.
+
+
+☕ **JAVA / SOFTWARE DEVELOPMENT**
+
 ### 🚆 [Online Reservation System](https://github.com/Dhandapanikeerthana/OIBSIP)
 Java Swing application with Login, Ticket Booking, PNR Generation, and Cancellation.
-
-### 🏠 [Chennai Real Estate Price Prediction](YOUR_REPO_LINK)
-Machine Learning project using synthetic datasets for property price prediction.
 
 ### 📰 [News App](https://github.com/Dhandapanikeerthana/NEWSAPP)
 News application project for browsing and displaying news articles.
 
-### 🏠 [Chennai Real Estate Data Generator](https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
-Synthetic real estate dataset generator for creating property listings and supporting Machine Learning projects.
 
-### 🤖 [GenAI Chat LLM with Gradio](https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
-Generative AI chatbot project using an LLM and Gradio for an interactive web interface.
+
+🧠 **AI / MACHINE LEARNING**
+
+### 🏠 [Chennai Real Estate Data Generator](https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
+Machine Learning project that generates a synthetic Chennai real estate dataset and uses it to build a property price prediction model.
+
+****🧠 Face Detection Project**(https://github.com/Dhandapanikeerthana/FaceDetectionProjects)**
+Real-time face detection application using Python and OpenCV with a webcam and Haar Cascade Classifier.
+
+
+
 ---
 # 🏆 Achievements
 
