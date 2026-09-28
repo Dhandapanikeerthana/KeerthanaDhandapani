@@ -1,45 +1,39 @@
-# Hi 👋, I'm Keerthana Dhandapani
+# Hi👋,I'm Keerthana Dhandapani
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;DSA+Enthusiast;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;DSA+Enthusiast;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
-# 💫 About Me
+# 💫About Me
 
-🎓 B.E. Computer Science and Engineering Student
-
+🎓 B.E.Computer Science and Engineering Student
 💻 Passionate Java Developer and Problem Solver
 
-🌱 Currently learning
-- Spring Boot
-- Full Stack Web Development
-- System Design
-- Artificial Intelligence & Machine Learning
 
-☁️ AWS Cloud Foundations Certified
+☁️AWS Cloud Foundations Certified
 
-🧩 Solving Data Structures & Algorithms using Java
+🧩Solving Data Structures & Algorithms using Java
 
-🚀 Building real-world projects in Java, AI, Machine Learning, and Web Development
+🚀Building real-world projects in Java, AI, Machine Learning, and Web Development
 
-❤️ Love learning new technologies and contributing to Open Source.
+❤️Love learning new technologies and contributing to Open Source.
 
 ---
 
-# 🚀 Current Focus
+## 🚀Current Focus
 
-- 📚 Mastering Java and Advanced DSA
-- ☁️ Exploring AWS Cloud Services
-- 🌐 Becoming a Full Stack Developer
-- 🤖 Learning AI & Machine Learning
-- 🔥 Building impactful real-world projects
-- 🌍 Contributing to Open Source
+ 📚 Mastering Java and Advanced DSA
+ ☁️ Exploring AWS Cloud Services
+ 🌐 Becoming a Full Stack Developer
+ 🤖 Learning AI & Machine Learning
+ 🔥 Building impactful real-world projects
+ 🌍 Contributing to Open Source
 
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️Languages & Tools
 
 ### Programming Languages
 
@@ -79,26 +73,33 @@
 ## 🤖GEN AI
 
 🤖GenAI Chat LLM with Gradio
-(https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
+
+  (https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
 
 🖼️Prototype Development for Image Generation Using Stable Diffusion
-(https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
+
+
+  (https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
 
 
 🧠Named Entity Recognition (NER) Prototype
-(https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)
+
+   (https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)
 
 🔗Design and Implementation of LangChain Expression Language (LCEL) Expressions
-(https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)
+
+   (https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)
 
 
  ## ☕JAVA / SOFTWARE DEVELOPMENT**
 
  🚆Online Reservation System
- (https://github.com/Dhandapanikeerthana/OIBSIP)
+ 
+   (https://github.com/Dhandapanikeerthana/OIBSIP)
 
  📰News App
- (https://github.com/Dhandapanikeerthana/NEWSAPP)
+ 
+   (https://github.com/Dhandapanikeerthana/NEWSAPP)
 
 
 
@@ -106,11 +107,13 @@
 ## 🧠AI / MACHINE LEARNING
 
 🏠Chennai Real Estate Data Generator
-(https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
+
+  (https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
 
 
 Face Detection Project
-(https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
+
+  (https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
 
 
 
