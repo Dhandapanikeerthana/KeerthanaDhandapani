@@ -4,28 +4,36 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;DSA+Enthusiast;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
----
+
 
 # 💫About Me
 
 🎓 Computer Science and Engineering Student
+
 💻 Aspiring Software Developer | Java | Data Structures & Algorithms
+
 🤖 Exploring Generative AI, LLM Applications, and Cloud Computing
 
-I enjoy building practical software projects, solving programming problems, and exploring new technologies. My goal is to develop useful, reliable applications while continuously improving my software development and problem-solving skills.
+I enjoy building practical software projects, solving programming problems, and exploring new technologies. My goal is to develop useful, reliable applications while continuously improving my 
+software development and problem-solving skills.
 
----
+
 
 ## 🚀Current Focus
 
  📚 Mastering Java and Advanced DSA
+ 
  ☁️ Exploring AWS Cloud Services
+ 
  🌐 Becoming a Full Stack Developer
+ 
  🤖 Learning AI & Machine Learning
+ 
  🔥 Building impactful real-world projects
+ 
  🌍 Contributing to Open Source
 
----
+
 
 # 🛠️Languages & Tools
 
@@ -59,39 +67,42 @@ I enjoy building practical software projects, solving programming problems, and 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
----
+
 
 ## PROJECTS
 
 
 ## 🤖GEN AI
 
-🤖GenAI Chat LLM with Gradio
+## GenAI Chat LLM with Gradio
 
   (https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
 
-🖼️Prototype Development for Image Generation Using Stable Diffusion
+## Prototype Development for Image Generation Using Stable Diffusion
 
 
   (https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
 
 
-🧠Named Entity Recognition (NER) Prototype
+## Named Entity Recognition (NER) Prototype
 
    (https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)
 
-🔗Design and Implementation of LangChain Expression Language (LCEL) Expressions
+## Design and Implementation of LangChain Expression Language (LCEL) Expressions
 
    (https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)
 
 
- ## ☕JAVA / SOFTWARE DEVELOPMENT**
+   
 
- 🚆Online Reservation System
+
+ ## ☕JAVA / SOFTWARE DEVELOPMENT
+
+ ## Online Reservation System
  
    (https://github.com/Dhandapanikeerthana/OIBSIP)
 
- 📰News App
+ ## News App
  
    (https://github.com/Dhandapanikeerthana/NEWSAPP)
 
@@ -100,20 +111,20 @@ I enjoy building practical software projects, solving programming problems, and 
 
 ## 🧠AI / MACHINE LEARNING
 
-🏠Chennai Real Estate Data Generator
+## Chennai Real Estate Data Generator
 
   (https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
 
 
-Face Detection Project
+## Face Detection Project
 
   (https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
 
 
 
 
----
-# 🏆 Achievements
+
+## 🏆 Achievements
 
 🏅 AWS Academy Graduate – Cloud Foundations
 
@@ -138,9 +149,10 @@ Face Detection Project
 
 <p align="left">
 
-<a href="(https://leetcode.com/u/D_KEERTHANA/)" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/D_KEERTHANA/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
+
 
 <a href="https://unstop.com/u/keertd19083" target="_blank">
 <img src="https://img.shields.io/badge/Unstop-6C63FF?style=for-the-badge"/>
@@ -152,7 +164,7 @@ Face Detection Project
 
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
