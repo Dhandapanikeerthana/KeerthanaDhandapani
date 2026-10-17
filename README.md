@@ -8,17 +8,11 @@
 
 # 💫About Me
 
-🎓 B.E.Computer Science and Engineering Student
-💻 Passionate Java Developer and Problem Solver
+🎓 Computer Science and Engineering Student
+💻 Aspiring Software Developer | Java | Data Structures & Algorithms
+🤖 Exploring Generative AI, LLM Applications, and Cloud Computing
 
-
-☁️AWS Cloud Foundations Certified
-
-🧩Solving Data Structures & Algorithms using Java
-
-🚀Building real-world projects in Java, AI, Machine Learning, and Web Development
-
-❤️Love learning new technologies and contributing to Open Source.
+I enjoy building practical software projects, solving programming problems, and exploring new technologies. My goal is to develop useful, reliable applications while continuously improving my software development and problem-solving skills.
 
 ---
 
